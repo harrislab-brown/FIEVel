@@ -8,7 +8,7 @@
 # Repository Overview
 Description of project folders and files as well as information how to get started with development.
 
-A a full build guide for FIEVel is avalible in the repository wiki and linked [here.](https://github.com/harrislab-brown/FIEVel/wiki)
+A full build guide for FIEVel is avalible in the repository wiki and linked [here.](https://github.com/harrislab-brown/FIEVel/wiki)
 
 ## CAD
 CAD files were created in Autodesk Fusion360. Files are included in both .f3z Fusion archive format to retain parametric edibility, as well as STEP format for use with other CAD packages.
